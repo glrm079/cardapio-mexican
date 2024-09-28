@@ -8,23 +8,23 @@ function App() {
     "items": [
       {
         "name": "Combos",
-        "cover": "/src/assets/combos.png",
+        "cover": "./src/assets/combos.png",
       },
       {
         "name": "Tacos",
-        "cover": "/src/assets/tacos.png",
+        "cover": "./src/assets/tacos.png",
       },    
       {
         "name": "Burrito",
-        "cover": "/src/assets/burrito.png",
+        "cover": "./src/assets/burrito.png",
       },    
       {
         "name": "Quesadilla",
-        "cover": "/src/assets/quesadilla.png",
+        "cover": "./src/assets/quesadilla.png",
       },    
       {
         "name": "Nachos",
-        "cover": "/src/assets/nacho.png",
+        "cover": "./src/assets/nacho.png",
       }
     ]
   };
